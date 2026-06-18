@@ -6,6 +6,7 @@ metadata:
   description: Bootstraps a Next.js application that can be deployed on OpenShift
   annotations:
     team: frontend
+    rhdh.redhat.com/time-saved: '10 hours'
   tags:
     - javascript
     - nextjs
